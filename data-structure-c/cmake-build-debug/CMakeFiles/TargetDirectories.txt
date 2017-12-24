@@ -1,3 +1,0 @@
-/root/CLionProjects/struct/data-structure-c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/root/CLionProjects/struct/data-structure-c/cmake-build-debug/CMakeFiles/edit_cache.dir
-/root/CLionProjects/struct/data-structure-c/cmake-build-debug/CMakeFiles/data_structure_c.dir
