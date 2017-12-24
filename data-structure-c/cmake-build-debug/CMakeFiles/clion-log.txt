@@ -1,1 +1,4 @@
-CMakeLists.txt not found in /root/CLionProjects/struct/data-structure-c
+/home/tools/jetbrains/clion-2017.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /root/CLionProjects/struct/data-structure-c
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /root/CLionProjects/struct/data-structure-c/cmake-build-debug

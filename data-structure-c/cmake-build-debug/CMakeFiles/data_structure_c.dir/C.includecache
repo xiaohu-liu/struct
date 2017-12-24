@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/CLionProjects/struct/data-structure-c/main.c
+stdio.h
+-
+
+/root/CLionProjects/struct/data-structure-c/tree/Tree.c
+stdio.h
+-
+stdlib.h
+-
+assert.h
+-
+stdbool.h
+-
+
